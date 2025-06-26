@@ -10,7 +10,7 @@
         },
         {
             "id": 2,
-            "name": "按钮2",
+            "name": "git命令",
             "function": "run_command",
             "params": {
                 "command": "notepad"
