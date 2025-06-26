@@ -1,0 +1,20 @@
+{
+    "buttons": [
+        {
+            "name": "浏览器",
+            "width": 36,
+            "height": 18,
+            "icon": "icons/browser.svg",
+            "action_type": "web",
+            "target": "https://www.google.com"
+        }
+    ],
+    "settings": {
+        "opacity": 0.8,
+        "auto_hide": true,
+        "position": {
+            "x": 0,
+            "y": 0
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "buttons": [
+        {
+            "id": 1,
+            "name": "按钮1",
+            "function": "run_command",
+            "params": {
+                "command": "cmd /c start \"\" \"D:\\MarkText\\MarkText.exe\" \"D:\\中国古代丛书\\本地知识库\\本地知识库2\\仓库2\\看人的艺术_这本书讲述了哪些内容.md\""
+            }
+        },
+        {
+            "id": 2,
+            "name": "按钮2",
+            "function": "run_command",
+            "params": {
+                "command": "notepad"
+            }
+        },
+        {
+            "id": 3,
+            "name": "按钮3",
+            "function": "custom_action",
+            "params": {
+                "action_type": "example_action"
+            }
+        }
+    ]
+}
