@@ -2,6 +2,7 @@ import os
 import sys
 import json
 import time
+import json
 from datetime import datetime
 from PyQt5.QtWidgets import (QApplication, QMainWindow, QWidget, QVBoxLayout, QHBoxLayout,
                                 QPushButton, QMenu, QSystemTrayIcon, QAction, QTextEdit,
